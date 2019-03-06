@@ -1,0 +1,8 @@
+item {
+  id: 47
+  display_name: "cup"
+}
+item {
+  id: 44
+  display_name: "bottle"
+}
